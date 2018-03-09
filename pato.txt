@@ -1,3 +1,5 @@
 El pato nace.
 El pato crece.
 El pato vuela al norte.
+El pato conoce una pata.
+El pato vuela en círculos.
